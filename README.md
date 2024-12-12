@@ -64,6 +64,4 @@ To analyze SplitWise user reviews to uncover:
    jupyter notebook
   
 3. **Open`SplitWise_Analytics.ipynb` and run all cells:**
-   ```bash
-   jupyter notebook
 
