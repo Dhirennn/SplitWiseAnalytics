@@ -56,7 +56,7 @@ To analyze SplitWise user reviews to uncover:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/<your-username>/SplitWise_Analytics.git](https://github.com/Dhirennn/SplitWiseAnalytics.git)
+   git clone https://github.com/Dhirennn/SplitWiseAnalytics.git
    cd SplitWise_Analytics
   
 2. **Open Jupyter Notebook in your terminal in the same directory as `SplitWise_Analytics.ipynb`:**
