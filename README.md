@@ -6,7 +6,7 @@ This repository contains the code and datasets used for analyzing SplitWise user
 To just view the visualizations, you can open up the `Dhiren_SplitWise_Analytics.pdf` PDF.
 
 ### Example View
-![Image not available :(](https://ibb.co/Wzv5ksx)
+![Image not available :(](https://i.ibb.co/hdF9BC7/Screenshot-2024-12-14-025211.png")
 
 Note: `splitwise_reviews.csv` was scraped using the `Crawl_Data.ipynb` scraper.
 
