@@ -2,6 +2,8 @@
 
 This repository contains the code and datasets used for analyzing SplitWise user reviews and identifying key reasons for its success. The project focuses on understanding user sentiment, feature usage, and pain points using data scraped from the Google Play Store.
 
+Note: `splitwise_reviews.csv` was scraped using the `Crawl_Data.ipynb` scraper.
+
 ## Repository Structure
 
 ### Folders and Files:
