@@ -63,5 +63,5 @@ To analyze SplitWise user reviews to uncover:
    ```bash
    jupyter notebook
   
-3. **Open`SplitWise_Analytics.ipynb` and run all cells:**
+3. **Open`SplitWise_Analytics.ipynb` and run all cells**
 
